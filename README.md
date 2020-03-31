@@ -1,4 +1,4 @@
-# simple-node-unit-testing
+# simple-manage_redis_session_nodejs
 Using redis to handle session in node-js
 
 ##Quick Setup
